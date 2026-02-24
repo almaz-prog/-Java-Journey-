@@ -1,2 +1,13 @@
-# -Java-Journey-
-Tracking my Java learning &amp; problem-solving journey 🚀
+# Java Journey 🚀
+
+Tracking my progress in Java programming.
+
+## Topics Covered
+- Basics
+- Arrays
+- OOP
+- Collections (coming soon 😈)
+
+## Mini Projects
+- Random Number Generator
+- (More chaos coming 😂)
